@@ -13,6 +13,8 @@ Test set (20%)*
 |--|--|
 | ![NN architecture for Polynomial Function](https://github.com/nhjoy/ANN-Function-Approx/blob/main/img/poly_nn.png) | ![NN architecture for Trigonometric Function](https://github.com/nhjoy/ANN-Function-Approx/blob/main/img/tri_nn.png) |
 |Input = 8; Hidden = 16; Output = 1|Input = 16; Hidden = 16; Output = 1|
+
+
 Where **rectifier or ReLU (Rectified Linear Unit) activation function** used.
 
 ## Training Model Details
