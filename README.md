@@ -11,7 +11,7 @@ Test set (20%)*
 ## NN-architecture
 |Polynomial Function| Trigonometric Function  |
 |--|--|
-| ![enter image description here](https://github.com/nhjoy/ANN-Function-Approx/blob/main/img/NN%20polyno.svg) | ![enter image description here](https://github.com/nhjoy/ANN-Function-Approx/blob/main/img/NN%20polyno.svg) |
+| ![enter image description here](https://github.com/nhjoy/ANN-Function-Approx/blob/main/img/tri_nn.png) | ![enter image description here](https://github.com/nhjoy/ANN-Function-Approx/blob/main/img/Poly_archi.png) |
 Where **rectifier or ReLU (Rectified Linear Unit) activation function** used.
 
 ## Training Model Details
