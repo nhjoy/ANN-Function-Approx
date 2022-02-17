@@ -28,10 +28,4 @@ the code is written in Interective Jupyter Notebook. The whole code segmented in
 
 ## Process to run the codes using google colab
 
-1. Go to https://colab.research.google.com/ and sign in with you gmail account.
-2. Create a new Notebook.
-3. write and execute the following line to import all the code from this repository 
-```
-
-```
-5. 
+Follow https://www.youtube.com/watch?v=jjdBbqV7q8s this video tutorial how access the codes using google colab
