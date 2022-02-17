@@ -21,3 +21,17 @@ Where **rectifier or ReLU (Rectified Linear Unit) activation function** used.
 
  - Optimization algorithm = **Adam Optimizer**
  - Loss function = **Mean squared error (MSE)**
+
+## How to use
+
+the code is written in Interective Jupyter Notebook. The whole code segmented into sections. To run any part click the run or execute button. It is suggested to run the code on Google colab. It has all the necessary python environment preinstalled which saves one from tedious installation process.
+
+## Process to run the codes using google colab
+
+1. Go to https://colab.research.google.com/ and sign in with you gmail account.
+2. Create a new Notebook.
+3. write and execute the following line to import all the code from this repository 
+```
+
+```
+5. 
